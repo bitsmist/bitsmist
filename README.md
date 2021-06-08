@@ -6,9 +6,9 @@ BitsmistJS is a Web Components based Javascript framework.
 
 ||Version|Description|
 |--|--|--|
-|[Core](https://github.com/bitsmist/bitsmist-js_v1)|0.9.7b|Core library. You need at least this to use BitsmistJS.
+|[Core](https://github.com/bitsmist/bitsmist-js_v1)|0.9.8|Core library. You need at least this to use BitsmistJS.
 |[Router](https://github.com/bitsmist/bitsmist-js-router_v1)|0.9.7|Routing library. You need this if you handle routing.|
-|[Extras](https://github.com/bitsmist/bitsmist-js-extras_v1)|0.9.7|Extra utilities. This is a collection of experimental components.|
+|[Extras](https://github.com/bitsmist/bitsmist-js-extras_v1)|0.9.8|Extra utilities. This is a collection of experimental components.|
 
 ## Bitsmist Server
 
